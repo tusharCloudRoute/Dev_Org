@@ -7,12 +7,13 @@ public class ctrldatepicker {
     {
         strTo = '';
         strFrom = '';
+	test = '';
     }
     
     /*	if (strFrom != '' && strTo != '' && strFrom != null && strTo != null) {
             Date from_date = Date.parse(strFrom);
             Date to_date = Date.parse(strTo);
-            Int12
+            Int12345
             query += ' AND Receive_Time_Server__c >= : From_date  AND Receive_Time_Server__c <= : To_date';
         }
         
