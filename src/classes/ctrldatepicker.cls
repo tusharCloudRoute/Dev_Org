@@ -1,6 +1,7 @@
 public class ctrldatepicker {
     public String strFrom {get;set;}
     public String strTo {get;set;}
+    Public String test{get;set;}
     
     public ctrldatepicker()
     {
@@ -11,7 +12,7 @@ public class ctrldatepicker {
     /*	if (strFrom != '' && strTo != '' && strFrom != null && strTo != null) {
             Date from_date = Date.parse(strFrom);
             Date to_date = Date.parse(strTo);
-            Int
+            Int12
             query += ' AND Receive_Time_Server__c >= : From_date  AND Receive_Time_Server__c <= : To_date';
         }
         
