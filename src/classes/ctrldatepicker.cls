@@ -7,7 +7,7 @@ public class ctrldatepicker {
     {
         strTo = '';
         strFrom = '';
-        test = 'testing complete commit to different branch';
+        test = 'testing complete commit to different branch Test';
     }
     
     /*	if (strFrom != '' && strTo != '' && strFrom != null && strTo != null) {
